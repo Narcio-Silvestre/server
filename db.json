@@ -1,0 +1,29 @@
+[
+  {
+    "PrimeiroNome": "Joao",
+    "UltimoNome": "Pedro",
+    "idade": 26,
+    "Pais": "Portugal",
+    "Email": "joao123@gmail.com",
+    "Morada": "Rua dos Porcos",
+    "Contato": "+351967085243"
+  },
+  {
+    "PrimeiroNome": "Fernando",
+    "UltimoNome": "afonso",
+    "idade": 39,
+    "Pais": "Inglaterra",
+    "Email": "fernado123@icloud.com",
+    "Morada": "Londres",
+    "Contato": "+44933098243"
+  },
+  {
+    "PrimeiroNome": "Nuno",
+    "UltimoNome": "Ladas",
+    "idade": 50,
+    "Pais": "Portugal",
+    "Email": "nunold@icloud.com",
+    "Morada": "Rua dos Seres",
+    "Contato": "+351976543098"
+  }
+]
